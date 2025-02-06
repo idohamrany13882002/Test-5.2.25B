@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2ca5a188-8801-4c9e-86d7-5b1e79c0cf06" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Test-5.2.25B.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Test-5.2.25B.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part1" beforeDir="false" afterPath="$PROJECT_DIR$/Part1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part2-q1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Part2-q1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part2-q2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Part2-q2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part2-q3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Part2-q3.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part3-q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part3-q4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,9 +21,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/idohamrany13882002/Test-5.2.25B.git",
+    "accountId": "baed585b-0089-4779-864f-daf6f04ca8a3"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -23,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Part3-q4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
